@@ -1,22 +1,9 @@
-# Check PayPal
-
-[Website Reference](https://www.doctorofcredit.com/targeted-paypal-20-cashback-when-you-pay-in-4/)
-
-Go to PayPal, going up and down, should be able to see the "20% back" on your homepage, save it, like below:
-
-<img src="Offer.webp" width="300"/>
-<img src="Screenshot.png" width="300"/>
-
-# When Buying
-
-Go to Best Buy, when checking out, use "PayPal" option, BUT DO NOT SELECT ONE PAYMENT, instead, look up and down and find "Pay in 4" and select one card for that "Pay in 4" option. If it is a $100 purchase, it should give you a page like this:
-
-![](Payin4.png)
-
-# Pay
-
-Once you process the order, go to your paypal, you can pay the whole thing off early if you want. In the "Accounts - Rewards," you should be able to see many points pending.
-
-<img src="1.png" width="300"/>
-<img src="2.png" width="300"/>
-<img src="3.png" width="300"/>
+- Go to https://katabaticgear.com
+- Log in, type email alvinyxz92@icloud.com
+- It should automatically pop up, saying that Shopify detected your account.
+- Then, they should send me a code to log in. Let me know if you need the code.
+- After logging in, go to https://katabaticgear.com/collections/elite-quilts/products/alsek-ultralight-quilt?variant=34495163891757 for the "Wide 6'" "900 FP" "Lyons Blue" color option.
+- Add to cart, the subtotal should be 449.10
+- Check out, choose "free shipping", select your address, I can take it back to MN
+- Click payment method, and select "PayPal," do that 20% back thing.
+- Will venmo you after. Thank you.
