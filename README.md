@@ -1,8 +1,8 @@
-- Go to https://katabaticgear.com
+- Go to [Katabatic Gear](https://katabaticgear.com)
 - Log in, type email alvinyxz92@icloud.com
 - It should automatically pop up, saying that Shopify detected your account.
 - Then, they should send me a code to log in. Let me know if you need the code.
-- After logging in, go to https://katabaticgear.com/collections/elite-quilts/products/alsek-ultralight-quilt?variant=34495163891757 for the "Wide 6'" "900 FP" "Lyons Blue" color option.
+- After logging in, go to this item [Alsek Ultralight Quilt](https://katabaticgear.com/collections/elite-quilts/products/alsek-ultralight-quilt?variant=34495163891757) for the "Wide 6'" "900 FP" "Lyons Blue" color option.
 - Add to cart, the subtotal should be 449.10
 - Check out, choose "free shipping", select your address, I can take it back to MN
 - Click payment method, and select "PayPal," do that 20% back thing.
