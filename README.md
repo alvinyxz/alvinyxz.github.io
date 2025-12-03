@@ -1,9 +1,16 @@
-- Go to [Katabatic Gear](https://katabaticgear.com)
-- Log in, type email alvinyxz92@icloud.com
-- It should automatically pop up, saying that Shopify detected your account.
-- Then, they should send me a code to log in. Let me know if you need the code.
-- After logging in, go to this item [Alsek Ultralight Quilt](https://katabaticgear.com/collections/elite-quilts/products/alsek-ultralight-quilt?variant=34495163891757) for the "Wide 6'" "900 FP" "Lyons Blue" color option.
-- Add to cart, the subtotal should be 449.10
-- Check out, choose "free shipping", select your address, I can take it back to MN
-- Click payment method, and select "PayPal," do that 20% back thing.
-- Will venmo you after. Thank you.
+# Hotel Booked
+
+![Hotel Booked](Hotel.png)
+
+# Flight Info
+
+![Flight](Flight.png)
+
+# My plan
+
+- MSP - GJT (Grand Junction): Arrive at March 6, 2026 12:00PM
+- GJT - MSP: Depart at March 17, 2026 7PM
+
+So I will be there, with a rental car, throughout your time there. Pick anytime to arrive and depart that works for you! Also, feel free to adjust dates, we can alwasys book one or two more nights if needed.
+
+The major activities are [Arches National Park (one day or two days)](https://www.utah.com/destinations/national-parks/arches-national-park/) and [Canyonlands National Park (one day or two days)](https://noahlangphotography.com/blog/best-things-to-do-canyonlands-national-park). So, if we want to spend 4 days, we could :)
