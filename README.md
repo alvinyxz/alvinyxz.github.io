@@ -1,3 +1,7 @@
+If things are too expensive and it is not worth it to fly out for hours and only stay one day for the national park, we can also do another time.
+
+Coz looking at the price, I feel like it migjt not be worth it 🥹😭 Maybe you can take Ashley somewhere else for a small celebration of MCAT?
+
 # Hotel Booked
 
 ![Hotel Booked](Hotel.png)
