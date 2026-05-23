@@ -1,5 +1,7 @@
-# alvinyxz.github.io
+---
+title: Home
+---
 
-Source for [https://alvinyxz.github.io](https://alvinyxz.github.io).
+# Alvin Zhou
 
-Homepage content lives in `index.md`. Site chrome lives in `_layouts/default.html`.
+Edit this file to update the homepage. The top-right **Churning** button is added by the Jekyll layout in `_layouts/default.html`.

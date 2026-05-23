@@ -9,9 +9,9 @@ defaults:
     values:
       layout: default
 
-# Don't ship publish-side tooling or the repo readme to the site.
+# README.md is the homepage source — keep it in the published site.
+# Excludes below are publish-side tooling that doesn't belong on the site.
 exclude:
-  - README.md
   - build.py
   - publish.sh
   - cards.md
@@ -20,3 +20,7 @@ exclude:
   - package-lock.json
   - .gitignore
   - .DS_Store
+
+# Without this, Jekyll wouldn't expose README.md as a page.
+include:
+  - README.md
