@@ -1,0 +1,22 @@
+title: alvinyxz
+# No theme — using a custom _layouts/default.html.
+theme: null
+
+# Default layout: any page without explicit front matter still uses this.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Don't ship publish-side tooling or the repo readme to the site.
+exclude:
+  - README.md
+  - build.py
+  - publish.sh
+  - cards.md
+  - cards.html
+  - node_modules
+  - package-lock.json
+  - .gitignore
+  - .DS_Store

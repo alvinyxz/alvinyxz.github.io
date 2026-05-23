@@ -1,0 +1,25 @@
+# Plaintext card data — NEVER publish
+cards.md
+cards.html
+
+# Churning build tooling — keep out of the public repo
+build.py
+publish.sh
+
+# Encryption password (only on local disk, never committed)
+.churning_password
+
+# staticrypt salt — regenerated per publish
+.staticrypt.json
+
+# Node / staticrypt cruft
+node_modules/
+package-lock.json
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS
+.DS_Store
