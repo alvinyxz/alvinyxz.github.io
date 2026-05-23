@@ -27,13 +27,15 @@
     border-bottom: 1px solid #eee;
   }
   .topbar .churning-link {
-    padding: 8px 16px;
-    background: var(--accent); color: #fff;
-    border-radius: 6px;
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 28px; height: 28px;
+    background: transparent; color: var(--muted);
+    border: 1px solid #ddd; border-radius: 50%;
     text-decoration: none;
-    font-size: 14px; font-weight: 500;
+    font-size: 13px; font-weight: 500;
+    transition: color 0.15s, border-color 0.15s;
   }
-  .topbar .churning-link:hover { background: var(--accent-hover); }
+  .topbar .churning-link:hover { color: var(--accent); border-color: var(--accent); }
 
   main {
     flex: 1;
@@ -62,7 +64,7 @@
 </head>
 <body>
   <div class="topbar">
-    <a class="churning-link" href="{{ '/churning.html' | relative_url }}">Churning</a>
+    <a class="churning-link" href="{{ '/churning.html' | relative_url }}" aria-label="C">C</a>
   </div>
 
   <main>
