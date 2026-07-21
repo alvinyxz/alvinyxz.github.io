@@ -2,8 +2,11 @@
 cards.md
 cards.html
 
-# Churning build tooling — keep out of the public repo
-build.py
+# Churning build tooling.
+# build.py is committed on purpose: it holds no secrets (the password comes
+# from the CHURNING_PASSWORD env var / prompt, and the salt + algorithm are
+# already public in churning.html), and it lets the page be edited from any
+# checkout — including Claude Code on mobile — without needing a local machine.
 publish.sh
 
 # Encryption password (only on local disk, never committed)
