@@ -27,7 +27,6 @@ Crypto matches StatiCrypt exactly:
   cipher = AES-256-CBC, PKCS7 padding
 No external Python packages required — uses stdlib + the `openssl` CLI.
 """
-import base64
 import getpass
 import hashlib
 import hmac
@@ -59,6 +58,12 @@ def get_password():
     for i, arg in enumerate(sys.argv):
         if arg == "--password" and i + 1 < len(sys.argv):
             pw = sys.argv[i + 1]
+            print(
+                "warning: --password is visible in shell history and process "
+                "lists; prefer the CHURNING_PASSWORD env var or the prompt",
+                file=sys.stderr,
+            )
+            break
     if not pw:
         pw = getpass.getpass("Password: ")
     if not pw:
@@ -125,7 +130,14 @@ def encrypt():
     rt = aes_decrypt(key, bytes.fromhex(check_enc[:32]), bytes.fromhex(check_enc[32:]))
     if rt != plaintext:
         sys.exit("error: round-trip verification failed — churning.html left unchanged")
-    open(CHURNING, "w", encoding="utf-8").write(new_html)
+    # atomic write: write to a temp file on the same filesystem, then replace,
+    # so an interruption can never leave churning.html half-written
+    tmp = CHURNING + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.write(new_html)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, CHURNING)
     print(f"encrypted -> {CHURNING}  (blob {len(new_blob)} hex chars)")
 
 
