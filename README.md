@@ -15,7 +15,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 
 **On your Mac**
 
-- Go to [socloud.me](https://socloud.me) and log in to my account — I'll send you the login separately.
+- Go to [socloud.me](https://socloud.me) and log in to my account — the credentials are in our shared password library.
 - Turn on Safari's translation (the site is in Chinese).
 - Download the SoCloud client for Mac and install it.
 - macOS will probably refuse to open it the first time. Go to **System Settings → Privacy & Security** and click **Open Anyway**.
