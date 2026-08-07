@@ -29,16 +29,17 @@ Do all of this **before you fly**, while you still have unrestricted internet.
 - Turn on Safari's translation (the site is in Chinese).
 - Download the SoCloud client for Mac and install it.
 - macOS will probably refuse to open it the first time. Go to **System Settings → Privacy & Security** and click **Open Anyway**.
-- Log in and connect once to confirm it works.
+- Log in and connect once — it should be running smoothly before you leave.
+
+**On your work PC (if you're bringing one)**
+
+- Same thing: download the Windows client from the same site, install it, and confirm it connects.
 
 **On your iPhone**
 
-- Download **Shadowrocket** from the App Store. It's a paid app (a few dollars) and it's *not* in the China App Store — so buy and download it before you leave.
-- I'll send you a QR code separately (not posting it here — anyone who scans it gets my subscription).
-- Open the iPhone **Camera** app and point it at the QR code. Tap the **"Open in Shadowrocket"** banner to import the profile.
-- You should end up with a **SoCloud** group listing Hong Kong and Taiwan servers.
-- Tap a server to select it, then flip the toggle at the top from **Not Connected** to on.
-- Test it — load Google or YouTube. If it loads, you're set.
+- Download **Shadowrocket** from the App Store and open it once. That's all for now.
+- It's a paid app (a few dollars) and it's *not* in the China App Store — so buy and download it before you leave.
+- We'll set up the actual connection together over Zoom.
 
 ## Also install
 
