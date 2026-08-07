@@ -9,7 +9,7 @@ Kennith — install and register all of this **before you fly**. Several of thes
 
 ## Do this first (won't work after you arrive)
 
-- **VPN — SoCloud** — nothing for you to do yet. I use it too, and I'll tell you how to set it up before you come. Don't skip it: Google, Gmail, Instagram, WhatsApp, YouTube, and ChatGPT are all blocked, and you can't download a VPN once you're inside.
+- **VPN — SoCloud** — see the setup steps below. Don't skip it: Google, Gmail, Instagram, WhatsApp, YouTube, and ChatGPT are all blocked, and you can't download a VPN once you're inside.
 - **GigSky** — App Store → search "GigSky" → buy a China eSIM data plan. Add card ending **7024** to claim the Visa benefit (ask me for the full number — not putting it on a public page).
   - Install the eSIM while you still have working internet.
 - **WeChat (微信)** — App Store → search "WeChat" → register with your US number.
@@ -18,6 +18,27 @@ Kennith — install and register all of this **before you fly**. Several of thes
   - This is *the* app in China: messaging, payments, taxis, tickets, everything.
 - **Alipay (支付宝)** — register and bind a foreign card. Works for almost all payments even without a Chinese bank account.
   - Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
+
+## VPN setup — SoCloud
+
+Do all of this **before you fly**, while you still have unrestricted internet.
+
+**On your Mac**
+
+- Go to [socloud.me](https://socloud.me) and log in to my account — I'll send you the login separately.
+- Turn on Safari's translation (the site is in Chinese).
+- Download the SoCloud client for Mac and install it.
+- macOS will probably refuse to open it the first time. Go to **System Settings → Privacy & Security** and click **Open Anyway**.
+- Log in and connect once to confirm it works.
+
+**On your iPhone**
+
+- Download **Shadowrocket** from the App Store. It's a paid app (a few dollars) and it's *not* in the China App Store — so buy and download it before you leave.
+- I'll send you a QR code separately (not posting it here — anyone who scans it gets my subscription).
+- Open the iPhone **Camera** app and point it at the QR code. Tap the **"Open in Shadowrocket"** banner to import the profile.
+- You should end up with a **SoCloud** group listing Hong Kong and Taiwan servers.
+- Tap a server to select it, then flip the toggle at the top from **Not Connected** to on.
+- Test it — load Google or YouTube. If it loads, you're set.
 
 ## Also install
 
