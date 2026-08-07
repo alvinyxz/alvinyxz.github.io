@@ -5,23 +5,13 @@ permalink: /
 
 # Before You Come to China
 
-Kennith — install and register all of this **before you fly**. Several of these are hard or impossible to set up once you land.
+Kennith — install and register all of this **before you fly**. Several of these are hard or impossible to set up once you land. Listed in order of importance.
 
-## Do this first (won't work after you arrive)
+## 1. VPN — SoCloud
 
-- **VPN — SoCloud** — see the setup steps below. Don't skip it: Google, Gmail, Instagram, WhatsApp, YouTube, and ChatGPT are all blocked, and you can't download a VPN once you're inside.
-- **GigSky** — App Store → search "GigSky" → buy a China eSIM data plan. Add card ending **7024** to claim the Visa benefit (ask me for the full number — not putting it on a public page).
-  - Install the eSIM while you still have working internet.
-- **WeChat (微信)** — App Store → search "WeChat" → register with your US number.
-  - New accounts often need an existing user to scan a code to vouch for you — do this while I'm reachable, not at the airport.
-  - Add your passport for real-name verification, and bind a Visa/Mastercard for WeChat Pay.
-  - This is *the* app in China: messaging, payments, taxis, tickets, everything.
-- **Alipay (支付宝)** — register and bind a foreign card. Works for almost all payments even without a Chinese bank account.
-  - Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
+**Read this part carefully. It matters more than everything else on this page combined.**
 
-## VPN setup — SoCloud
-
-Do all of this **before you fly**, while you still have unrestricted internet.
+Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in China. Without a working VPN you lose contact with your family and access to your work for the entire trip — and you can't fix it after you land, because VPN apps can't be downloaded from inside the country. Set it up and confirm it actually connects **before you get on the plane**.
 
 **On your Mac**
 
@@ -40,6 +30,24 @@ Do all of this **before you fly**, while you still have unrestricted internet.
 - Download **Shadowrocket** from the App Store and open it once. That's all for now.
 - It's a paid app (a few dollars) and it's *not* in the China App Store — so buy and download it before you leave.
 - We'll set up the actual connection together over Zoom.
+
+## 2. WeChat (微信)
+
+- App Store → search "WeChat" → register with your US number.
+- New accounts often need an existing user to scan a code to vouch for you — do this while I'm reachable, not at the airport.
+- Add your passport for real-name verification, and bind a Visa/Mastercard for WeChat Pay.
+- This is *the* app in China: messaging, payments, taxis, tickets, everything.
+
+## 3. GigSky — mobile data
+
+- App Store → search "GigSky" → buy a China eSIM data plan.
+- Add card ending **7024** to claim the Visa benefit (ask me for the full number — not putting it on a public page).
+- Install the eSIM while you still have working internet. Nothing else here works without data.
+
+## 4. Alipay (支付宝)
+
+- Register and bind a foreign card. Works for almost all payments even without a Chinese bank account.
+- Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
 
 ## Also install
 
