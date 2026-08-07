@@ -51,12 +51,24 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Register and bind your **Chase CSP**. Works for almost all payments even without a Chinese bank account.
 - Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
 
-## Also install
+## 5. DeepSeek
 
-- **DeepSeek** — AI chat that actually works there (Claude/ChatGPT/Gemini are blocked).
-- **Baidu Maps (百度地图)** — Google Maps is useless in China. Apple Maps works fine too.
-- **DiDi (滴滴出行)** — Uber equivalent, with an English mode. It also lives inside Alipay/WeChat, but the mini-program isn't as intuitive as the real app, so install it properly. I'll most likely be calling the cars for us, but have it just in case.
-- **Meituan (美团) / Dianping (大众点评)** — food delivery and restaurant reviews.
+- AI chat that actually works there — Claude, ChatGPT, and Gemini are all blocked.
+
+## 6. Baidu Maps (百度地图)
+
+- Google Maps is useless in China. Apple Maps works fine too.
+
+## 7. DiDi (滴滴出行)
+
+- Uber equivalent, with an English mode.
+- It also lives inside Alipay/WeChat, but the mini-program isn't as intuitive as the real app, so install it properly.
+- I'll most likely be calling the cars for us, but have it just in case.
+
+## Optional
+
+- **Meituan (美团)** — food delivery.
+- **Dianping (大众点评)** — restaurant reviews.
 - **Xiaohongshu (小红书 / RED)** — for finding food and places worth going.
 
 ## Non-app stuff
