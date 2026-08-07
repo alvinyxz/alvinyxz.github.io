@@ -9,7 +9,7 @@ Kennith — install and register all of this **before you fly**. Several of thes
 
 ## Do this first (won't work after you arrive)
 
-- **VPN** — install *and test* it before departure. Astrill, LetsVPN, or Express. Google, Gmail, Instagram, WhatsApp, YouTube, and ChatGPT are all blocked, and you can't download a VPN once you're inside.
+- **VPN — SoCloud** — nothing for you to do yet. I use it too, and I'll tell you how to set it up before you come. Don't skip it: Google, Gmail, Instagram, WhatsApp, YouTube, and ChatGPT are all blocked, and you can't download a VPN once you're inside.
 - **GigSky** — App Store → search "GigSky" → buy a China eSIM data plan. Add card ending **7024** to claim the Visa benefit (ask me for the full number — not putting it on a public page).
   - Install the eSIM while you still have working internet.
 - **WeChat (微信)** — App Store → search "WeChat" → register with your US number.
