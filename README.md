@@ -90,3 +90,4 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Turn on international roaming as a fallback in case the eSIM misbehaves.
 - Download the Chinese language pack in **Google Translate** before you go — Google is blocked, so it won't download once you're there.
 - Screenshot your passport, visa, and flight details — keep them offline on your phone.
+- Leave your power bank at home. China requires a CCC certification mark on them now, which no US one has, so it'll just get confiscated at security lol. Easy to buy one there if you need it.
