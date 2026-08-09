@@ -47,6 +47,8 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Add the cards ending **7494** and **9445** to claim the Visa benefit (ask me for the full numbers — not putting them on a public page).
 - **Don't buy a China plan yet.** One card gets us a discount code and the other one pays for the plan — it's a bit convoluted, so we'll do it together on the Zoom call.
 - Once we've bought it, install the eSIM while you still have working internet. Nothing else here works without data.
+- GigSky routes you through US internet, so nothing is censored while you're on cellular — you don't need the VPN there.
+- So we'll set up Shadowrocket to handle that by itself: VPN **off automatically when you're on cellular**, **on automatically when you join Chinese Wi-Fi**. I'll show you how over Zoom.
 
 ## 4. Alipay (支付宝)
 
