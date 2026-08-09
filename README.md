@@ -75,6 +75,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 ## 8. DiDi (滴滴出行)
 
 - Uber equivalent, with an English mode.
+- Get **DiDi China** (the one with ~1.2k reviews) — *not* DiDi Rider.
 - It also lives inside Alipay/WeChat, but the mini-program isn't as intuitive as the real app, so install it properly.
 - I'll most likely be calling the cars for us, but have it just in case.
 
