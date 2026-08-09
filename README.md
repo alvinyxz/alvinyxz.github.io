@@ -52,6 +52,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Register and bind your **Chase CSP**. Works for almost all payments even without a Chinese bank account.
 - Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
 - Same as above: on the Zoom call I'll give you my Chinese bank account for Apple Wallet, and we'll set up your metro card then.
+- Nothing to do about this right now — I'll walk you through adding the Metro card. Once it's set up you can use it in every city we go to; it works in 300+ cities across China.
 
 ## 5. DeepSeek
 
