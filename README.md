@@ -54,15 +54,21 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Same as above: on the Zoom call I'll give you my Chinese bank account for Apple Wallet, and we'll set up your metro card then.
 - Nothing to do about this right now — I'll walk you through adding the Metro card. Once it's set up you can use it in every city we go to; it works in 300+ cities across China.
 
-## 5. DeepSeek
+## 5. 北京一卡通 (Beijing Yikatong)
+
+- Do WeChat and Alipay first — this one links to them.
+- In the app, get the **玲珑通卡** first.
+- Connect it to WeChat Pay or Alipay so you can top it up.
+
+## 6. DeepSeek
 
 - AI chat that actually works there — Claude, ChatGPT, and Gemini are all blocked.
 
-## 6. Baidu Maps (百度地图)
+## 7. Baidu Maps (百度地图)
 
 - Google Maps is useless in China. Apple Maps works fine too.
 
-## 7. DiDi (滴滴出行)
+## 8. DiDi (滴滴出行)
 
 - Uber equivalent, with an English mode.
 - It also lives inside Alipay/WeChat, but the mini-program isn't as intuitive as the real app, so install it properly.
