@@ -43,7 +43,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 ## 3. GigSky — mobile data
 
 - App Store → search "GigSky".
-- Add card ending **7024** to claim the Visa benefit (ask me for the full number — not putting it on a public page).
+- Add the cards ending **7494** and **9445** to claim the Visa benefit (ask me for the full numbers — not putting them on a public page).
 - Then go to the China section and pick a plan to buy.
 - Install the eSIM while you still have working internet. Nothing else here works without data.
 
