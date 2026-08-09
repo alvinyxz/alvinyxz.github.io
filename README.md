@@ -38,7 +38,8 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - Add your passport for real-name verification, and bind your **Chase CSP** for WeChat Pay.
 - This is *the* app in China: messaging, payments, taxis, tickets, everything.
 - Once WeChat is set up, most other apps let you sign in **with WeChat** — do that instead of handing over your email and making another password. Gmail often can't receive Chinese verification and marketing emails anyway.
-- On our Zoom call I'll give you my Chinese bank account to add to Apple Wallet, so we can set up your metro card while we're on the call.
+- I'll also send you a **亲属卡** (family card). It works like being an authorized user: you pay with it, the charge comes to me.
+- So you'll end up with three ways to pay in WeChat: your **balance** (which will be ¥0 — ignore it), your **Chase CSP**, and my **亲属卡**.
 
 ## 3. GigSky — mobile data
 
@@ -50,15 +51,16 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 ## 4. Alipay (支付宝)
 
 - Register and bind your **Chase CSP**. Works for almost all payments even without a Chinese bank account.
-- Has built-in translation, transit QR codes, and a DiDi mini-program, so it's a good backup for everything else.
-- Same as above: on the Zoom call I'll give you my Chinese bank account for Apple Wallet, and we'll set up your metro card then.
-- Nothing to do about this right now — I'll walk you through adding the Metro card. Once it's set up you can use it in every city we go to; it works in 300+ cities across China.
+- Has built-in translation and a DiDi mini-program, so it's a good backup for everything else.
+- I'll send you a **亲属卡** here too — same idea as WeChat: you spend, I pay.
+- Same three options as WeChat: your **balance** (¥0), your **Chase CSP**, and my **亲属卡**.
 
 ## 5. 北京一卡通 (Beijing Yikatong)
 
-- Do WeChat and Alipay first — this one links to them.
+- This is your metro card. Do WeChat and Alipay first — it links to them.
 - In the app, get the **玲珑通卡** first.
 - Connect it to WeChat Pay or Alipay so you can top it up.
+- Nothing you need to figure out on your own — I'll walk you through it on the Zoom call. Once it's set up you can use it in every city we go to; it works in 300+ cities across China.
 
 ## 6. DeepSeek
 
