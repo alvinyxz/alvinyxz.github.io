@@ -35,7 +35,8 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 
 - App Store → search "WeChat" → register with your US number.
 - New accounts often need an existing user to scan a code to vouch for you — do this while I'm reachable, not at the airport.
-- Add your passport for real-name verification, and bind your **Chase CSP** for WeChat Pay.
+- China runs a **real-name system** (实名认证) — you'll have to upload your passport to verify the account before payments work. It can take a few days to clear, so start it well before you fly, not the night before.
+- Bind your **Chase CSP** for WeChat Pay.
 - This is *the* app in China: messaging, payments, taxis, tickets, everything.
 - Once WeChat is set up, most other apps let you sign in **with WeChat** — do that instead of handing over your email and making another password. Gmail often can't receive Chinese verification and marketing emails anyway.
 - I'll also send you a **亲属卡** (family card). It works like being an authorized user: you pay with it, the charge comes to me.
@@ -53,6 +54,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 ## 4. Alipay (支付宝)
 
 - Register and bind your **Chase CSP**. Works for almost all payments even without a Chinese bank account.
+- Same **real-name system** here — upload your passport to verify, and give it a few days to clear. Do it before you arrive.
 - Has built-in translation and a DiDi mini-program, so it's a good backup for everything else.
 - I'll send you a **亲属卡** here too — same idea as WeChat: you spend, I pay.
 - Same three options as WeChat: your **balance** (¥0), your **Chase CSP**, and my **亲属卡**.
