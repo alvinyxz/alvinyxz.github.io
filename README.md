@@ -59,12 +59,10 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 - I'll send you a **亲属卡** here too — same idea as WeChat: you spend, I pay.
 - Same three options as WeChat: your **balance** (¥0), your **Chase CSP**, and my **亲属卡**.
 
-## 5. 北京一卡通 (Beijing Yikatong)
+## 5. Metro card — Apple Wallet
 
-- This is your metro card. Do WeChat and Alipay first — it links to them.
-- In the app, get the **玲珑通卡** first.
-- Connect it to WeChat Pay or Alipay so you can top it up.
-- Nothing you need to figure out on your own — I'll walk you through it on the Zoom call. Once it's set up you can use it in every city we go to; it works in 300+ cities across China.
+- You've already added my Chinese debit card to your Apple Wallet, so ignore the 北京一卡通 instructions that used to be here.
+- We'll just use Apple's own system to set up the metro card on the Zoom call.
 
 ## 6. DeepSeek
 
