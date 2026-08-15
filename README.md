@@ -68,7 +68,7 @@ Google, Gmail, WhatsApp, Instagram, YouTube, and ChatGPT are all blocked in Chin
 
 - AI chat that actually works there — Claude, ChatGPT, and Gemini are all blocked.
 
-## 7. Baidu Maps (百度地图)
+## 7. Amap (高德地图)
 
 - Google Maps is useless in China. Apple Maps works fine too.
 
