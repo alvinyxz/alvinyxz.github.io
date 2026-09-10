@@ -39,6 +39,13 @@
 
   main {
     flex: 1;
+    /* Flex items default to min-width:auto, which refuses to shrink below
+       their content. Without this a wide table pushes the whole page sideways
+       instead of scrolling inside its own box. */
+    min-width: 0;
+    /* "margin: auto" on a flex item disables cross-axis stretch, so without an
+       explicit width main shrinks to its content instead of the viewport. */
+    width: 100%;
     max-width: 760px;
     margin: 48px auto;
     padding: 0 24px 80px;
@@ -59,6 +66,24 @@
   main blockquote {
     border-left: 3px solid #ddd; margin: 0; padding: 4px 16px;
     color: var(--muted);
+  }
+  main table {
+    border-collapse: collapse; width: 100%;
+    margin: 10px 0 28px; font-size: 14px;
+  }
+  main th, main td {
+    text-align: left; padding: 8px 10px;
+    border-bottom: 1px solid #e8e8e8; white-space: nowrap;
+  }
+  main th {
+    font-size: 11px; font-weight: 600; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.04em;
+    border-bottom: 1px solid #ccc;
+  }
+  main td:last-child, main th:last-child { text-align: right; }
+  @media (max-width: 620px) {
+    main table { font-size: 13px; display: block; overflow-x: auto; }
+    main th, main td { padding: 7px 8px; }
   }
 </style>
 </head>
