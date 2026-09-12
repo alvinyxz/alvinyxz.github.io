@@ -81,6 +81,18 @@
     border-bottom: 1px solid #ccc;
   }
   main td:last-child, main th:last-child { text-align: right; }
+  main .booked {
+    display: inline-block; margin-left: 7px; padding: 1px 7px;
+    border-radius: 10px; font-size: 11px; font-weight: 600;
+    background: #dcfce7; color: #166534; vertical-align: middle;
+    letter-spacing: 0.02em;
+  }
+  main tbody tr:has(.booked) { background: #f4fbf6; }
+  main tbody tr:has(.booked) td { font-weight: 600; }
+  main hr {
+    border: 0; border-top: 1px solid #e0e0e0;
+    margin: 44px 0 36px;
+  }
   @media (max-width: 620px) {
     main table { font-size: 13px; display: block; overflow-x: auto; }
     main th, main td { padding: 7px 8px; }
