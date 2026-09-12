@@ -50,7 +50,7 @@ permalink: /
 | Time | Flight | Points | Cash |
 |---|---|---|---|
 | 7:00 AM – 7:50 AM | Delta | 11,000 + $6 | $374 |
-| 12:51 PM – 1:45 PM | Delta (Endeavor) | 33,300 + $6 | $374 |
+| 12:51 PM – 1:45 PM | Delta | 33,300 + $6 | $374 |
 | 4:33 PM – 5:25 PM | Delta | 33,300 + $6 | $374 |
 | 6:50 PM – 7:44 PM | Delta | 11,000 + $6 | $374 |
 
@@ -59,7 +59,7 @@ permalink: /
 | Time | Flight | Points | Cash |
 |---|---|---|---|
 | 7:00 AM – 7:50 AM | Delta | 11,000 + $6 | $374 |
-| 12:51 PM – 1:45 PM | Delta (Endeavor) | 48,100 | $534 |
+| 12:51 PM – 1:45 PM | Delta | 48,100 | $534 |
 | 4:33 PM – 5:25 PM | Delta | 11,000 + $6 | $374 |
 | 6:50 PM – 7:44 PM | Delta | 11,000 + $6 | $374 |
 
@@ -67,8 +67,17 @@ permalink: /
 
 | Time | Flight | Points | Cash |
 |---|---|---|---|
-| 9:20 AM – 12:04 PM | Delta (Endeavor) | 44,400 + $6 | $494 |
+| 9:20 AM – 12:04 PM | Delta | 44,400 + $6 | $494 |
 | 12:51 PM – 3:28 PM | Delta | 33,300 + $6 | $374 |
 | 3:16 PM – 5:55 PM | Delta | 48,600 + $6 | $539 |
 | 4:10 PM – 6:43 PM | Sun Country | — | $89 |
+| 8:15 PM – 10:57 PM | Delta | 11,000 + $6 | $374 |
+
+## MSP → IND · Mon, Oct 19
+
+| Time | Flight | Points | Cash |
+|---|---|---|---|
+| 9:20 AM – 12:04 PM | Delta | 56,000 + $6 | $619 |
+| 12:51 PM – 3:28 PM | Delta | 33,300 + $6 | $374 |
+| 3:16 PM – 5:55 PM | Delta | 11,000 + $6 | $374 |
 | 8:15 PM – 10:57 PM | Delta | 11,000 + $6 | $374 |
