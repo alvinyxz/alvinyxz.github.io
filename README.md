@@ -5,7 +5,7 @@ permalink: /
 
 # IND ↔ BWI · Dec 4–6
 
-Kennith — please book this round trip: **IND → BWI on Fri, Dec 4** and **BWI → IND on Sun, Dec 6**.
+Please book this round trip: **IND → BWI on Fri, Dec 4** and **BWI → IND on Sun, Dec 6**.
 
 [Open the search on Google Flights →](https://www.google.com/travel/flights/search?tfs=CBwQAhogEgoyMDI2LTEyLTA0KABqBwgBEgNJTkRyBwgBEgNCV0kaIBIKMjAyNi0xMi0wNigAagcIARIDQldJcgcIARIDSU5EQAFIAXABggELCP___________wGYAQE&tfu=EgIIACIA&hl=en&gl=us&curr=USD)
 
